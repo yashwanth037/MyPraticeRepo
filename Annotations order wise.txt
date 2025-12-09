@@ -1,0 +1,3 @@
+Annotations order wise
+
+Beforesuit->BeforeTest->BeforeClass->BeforeMethod->ts1->AftrMethod->BeforeMethod->ts2->Aftermetod->AfterClass->AfterTest->AfterSuit
